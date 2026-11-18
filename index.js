@@ -1,2 +1,1 @@
-
-  import/"server74.js;
+import "./server74.js";
